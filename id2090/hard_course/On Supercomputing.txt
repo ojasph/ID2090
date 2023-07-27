@@ -1,0 +1,38 @@
+On Supercomputing:
+Languages used: Fortran, C, cpp
+
+gmon.out, gcc, g++
+profiling code: -pg -o options to be given
+(option o for packaging)
+
+redflag/redlack algorithm. 
+parallely processing the example which I had:
+like making the loop go from 1 to 100 in steps of 2. 
+
+MPI(message passing interface)
+openMP
+OpenACC
+CUDA
+
+MPI is for making computers run faster. 
+the last 2 are library calls, which 
+in C language #pragma macro
+
+little indian, big indian
+ssh.ID2090@gnr.iitm.ac.in
+SciComp@2090
+
+headnode is not for doing work. 
+
+qsub, qstat, 
+doing vi job.pbs and you can change the name of the program I want to run
+
+qsub job.pbs
+
+qstat doing that tells if process is running, etc. 
+lammps molecular dynamics package
+vasp package as well
+
+materials project next gen. thing..-->https://next-gen.materialsproject.org/
+adaptive unstructured grids
+eulerian vs lagrangian

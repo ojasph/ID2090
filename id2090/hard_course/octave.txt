@@ -1,0 +1,40 @@
+help disp
+gives info about stuffs
+PS1{"\\u:")
+help diary
+diary on and diary off are the two options
+cast --> if I want to coerce a number into another data type
+cmyk 32 bits
+else it is just rgb colors
+another cheaper method compared to cast is using multiplication bhy float, eg 1.0
+
+who gives out what all variables are available right now
+whos
+realmin: the smallest min num which can be stored
+realmax, sizemax, eps(machine epsilon)
+
+non-dimensionalization of quantities. 
+a.x="hello"
+
+struct concept in C language. 
+
+a.y=[1:1:10]
+hello
+prints out 1 2 3 ... 10
+
+struct is a memory model of a json file
+
+always call by value only happens
+always a copy will be made
+
+help eval
+help feval
+help sprintf
+help printf
+
+help save
+vtk.org
+mat i/o library
+
+hdf5 file format
+
